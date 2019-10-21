@@ -1,0 +1,12 @@
+MIN and TS methods
+1)hybridtwostep.r: continuous phenotype, main function that outputs FWER adjusted p-values for TS and MIN methods
+2)hybridtwostepCC.r: case-control phenotype, main function that outputs FWER adjusted p-values for TS and MIN methods
+
+MARG test
+3)pathwayJosh.r: continuous phenotype, main function that outputs FWER adjusted p-value for MARG method
+4)pathwayJoshCC.r: case-control phenotype, main function that outputs FWER adjusted p-value for MARG method
+
+LIN1, LIN2 and QUAD
+5)hunag_group.r: continuous phenotype, main function that outputs p-value for LIN1, LIN2 and QUAD methods
+6)hunag_groupCC.r: case-control phenotype, main function that outputs p-value for LIN1, LIN2 and QUAD methods
+
